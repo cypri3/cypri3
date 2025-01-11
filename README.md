@@ -25,7 +25,7 @@
 | [EllipticQuiz](https://github.com/cypri3/EllipticQuiz) | <img alt="Stars" src="https://img.shields.io/github/stars/cypri3/EllipticQuiz?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
 | [AES-M1](https://github.com/cypri3/AES-M1) | <img alt="Stars" src="https://img.shields.io/github/stars/cypri3/AES-M1?style=flat-square&labelColor=black"/> | ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c) |
 | [DSA-M1](https://github.com/cypri3/DSA-M1) | <img alt="Stars" src="https://img.shields.io/github/stars/cypri3/DSA-M1?style=flat-square&labelColor=black"/> | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
-| [BLS-M2](https://github.com/cypri3/BLS-M2) | <img alt="Stars" src="https://img.shields.io/github/stars/cypri3/BLS-M2?style=flat-square&labelColor=black"/> | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
+| [BLS-M2](https://github.com/cypri3/SignatureApp-M2) | <img alt="Stars" src="https://img.shields.io/github/stars/cypri3/SignatureApp-M2?style=flat-square&labelColor=black"/> | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
 | [GGH-M2](https://github.com/cypri3/GGH-M2) | <img alt="Stars" src="https://img.shields.io/github/stars/cypri3/GGH-M2?style=flat-square&labelColor=black"/> | ![SageMath](https://img.shields.io/badge/SageMath-black?style=flat-square&logo=sagemath) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 
 

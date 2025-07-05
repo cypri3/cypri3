@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/cypri3">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Cypri3;Master's+in+Information+Mathematics+and+Cryptography;AI+%7C+Cybersecurity+%7C+Blockchain+%7C+HPC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Cypri3;PhD+in+Formal+Methods+for+Hardware+Security;Hardware+Security+%7C+Formal+Verification+%7C+RISC-V+%7C+Low-Level+Security" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -11,13 +11,27 @@
 
 </p>
 
-* 📖 Currently pursuing Master's in [Information Mathematics and Cryptography](https://math.univ-rennes.fr/parcours-mathematiques-de-linformation-cryptographie-master) at [The University of Rennes](https://www.univ-rennes.fr).
-* 🎓 Specializing in **AI**, **Cryptanalysis**, **Blockchain**, and **High-Performance Computing (HPC)**.
-* 💻 Actively working on projects involving **quantum cryptography**, **forensic analysis**, and **secure AI models**.
+* 🎓 **PhD Student** in **Formal Methods for Hardware Security** at [INRIA](https://www.inria.fr/en) - [SUSHI Team](https://team.inria.fr/sushi/)
+* 🔬 Research focus: **Formalizing Hardware Security Mechanisms** in **RISC-V** architectures
+* 📜 **Master's graduate** in [Information Mathematics and Cryptography](https://math.univ-rennes.fr/parcours-mathematiques-de-linformation-cryptographie-master) from [The University of Rennes](https://www.univ-rennes.fr)
+* 💻 Working on **formal verification** of **low-level security mechanisms** and **processor design security**
 
-### 🖥️ Open-Source Projects
+<div align="center">
+<h2>🖥️ Open-Source Projects</h2>
+
 <table>
-<tr><th>Cryptography</th><th>Other</th></tr>
+<tr><th>🔒 Formal Methods & Hardware Security</th></tr>
+<tr><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [Formal Methods Hardware](https://gitlab.inria.fr/SUSHI-public/FMH) | <img alt="GitLab" src="https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab"/> | ![RISC-V](https://img.shields.io/badge/RISC--V-black?style=flat-square&logo=riscv) ![Formal Methods](https://img.shields.io/badge/Formal_Methods-black?style=flat-square) |
+
+</td></tr>
+</table>
+</div>
+<table>
+<tr><th>🔐 Cryptography & Security</th><th>🛠️ Development Tools</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -39,9 +53,10 @@
 </table>
 
 ### 🚀 Current Research & Projects
-- **Bash Tools Development**: Developing various tools in Bash for automating different tasks.
-- **Docker Infrastructure Development**: Building scalable and secure infrastructures using Docker for deploying bots systems and AI models.
-- **BLS Signature Project**: Working on the development of a cryptographic project focusing on BLS (Boneh-Lynn-Shacham) signatures for secure communication and authentication.
+- **PhD Research**: **Formalizing Hardware Security Mechanisms** in RISC-V architectures as part of the [SUSHI team](https://team.inria.fr/sushi/) at INRIA
+- **Formal Verification**: Working on formal models and proofs for low-level security mechanisms in processor design
+- **Hardware Security**: Focusing on vulnerability identification and security-by-design approaches at the software/hardware interface
+- **RISC-V Security**: Developing secure-by-design approaches for RISC-V processor architectures
 
 
 ---
